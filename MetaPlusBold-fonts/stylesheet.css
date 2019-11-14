@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'MetaPlusBold';
+    src: url('MetaPlusBoldRoman.eot');
+    src: url('MetaPlusBoldRoman.eot?#iefix') format('embedded-opentype'),
+        url('MetaPlusBoldRoman.woff2') format('woff2'),
+        url('MetaPlusBoldRoman.woff') format('woff'),
+        url('MetaPlusBoldRoman.ttf') format('truetype'),
+        url('MetaPlusBoldRoman.svg#MetaPlusBoldRoman') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
